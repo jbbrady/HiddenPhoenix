@@ -1,9 +1,22 @@
 {{ partial "header.html" . }}
 <div class="article-meta">
 <h1><span class="title">{{ .Title | markdownify }}</span></h1>
-{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
-{{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
+<!-- {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }} -->
+<!-- {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "Monday, Jan 2, 2006"}}</h2>{{ end }} -->
+
+{{ with .Params.author }}
+  <h2 class="author">By {{ . }}
+{{ end }}
+{{ if (gt .Params.date 0) }}
+    <span class="date"> : {{ .Date.Format "Monday, January 2 2006"}}</span>
+{{ end }}
+{{with .Params.author }}
+  </h2>
+{{ end }}
 </div>
+
+</div>
+<hr/>
 
 <main>
 {{ .Content }}

@@ -10,7 +10,13 @@
   </head>
 
   <body>
+      <!-- <div class="site&#45;title"><span>Hidden</span> <span>Phoenix</span></div> -->
+      <svg viewbox="0 0 150 20">
+          <text x="2" y="15" style="font-family: 'Cinzel Decorative', cursive; font-weight: bold;">Hidden Phoenix</text>
+          <!-- <text x="0" y="15" class="site&#45;title">Hidden Phoenix</text> -->
+      </svg>
     <nav>
+    <p class="sub-title">A collection of trees, treasures and tales from the field: An urban foresters journal</p>
     <ul class="menu">
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>

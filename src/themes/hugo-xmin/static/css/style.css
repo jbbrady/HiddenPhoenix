@@ -1,8 +1,20 @@
 body {
-  max-width: 800px;
+  /* max-width: 800px; */
+  max-width: 75%;
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
+  color: #222;
+}
+
+a:link,a:visited { 
+ color: #3d2645;
+ text-decoration: underline;
+}
+
+a:hover, a:active {
+ color: #aa4465;
+ text-decoration: underline;
 }
 
 /* header and footer areas */
@@ -10,16 +22,56 @@ body {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #eee;
+  /* font-color: #fff; */
+  /* background: #eee; */
   padding: 5px;
+  /* border-radius: 5px; */
+}
+.menu {
+  background-color: #222;
+  text-align: center;
+  padding: 0;
+}
+.menu a /*, .menu a:link, .menu a:visited, a:active, a:hover {*/{
+  color: #fff;
+}
+.menu a:hover, .menu a:active {
+  color:#222;
+  background-color: #fff;
+  /*
+  border-top: 1px solid #222;
+  border-left: 1px solid #222;
+  border-right: 1px solid #222;
+  */
   border-radius: 5px;
 }
-.menu, .article-meta, footer { text-align: center; }
-.title { font-size: 1.1em; }
+
+.menu, .article-meta, .site-title, footer { text-align: center; }
+.title { 
+  /* font-size: 1.2em;  */
+  font-weight: normal;
+}
+.author, .date {
+  /* font-size: 1em; */
+}
+.site-title {
+  /* font-size: 500%; */
+  font-size: 3em; 
+  font-weight: bold;
+  /* font-family: 'Cinzel Decorative', cursive; */
+  /* padding: 5px; */
+  /* margin: 30px; */
+}
+.sub-title {
+  text-align: center;
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: bold;
+}
+
 footer a { text-decoration: none; }
 hr {
-  border-style: dashed;
-  color: #ddd;
+  border-style: solid;
+  color: #222;
 }
 
 /* code */
