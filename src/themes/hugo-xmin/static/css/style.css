@@ -25,6 +25,8 @@ a:hover, a:active {
   /* font-color: #fff; */
   /* background: #eee; */
   padding: 5px;
+  margin-left:20px;
+  margin-right:20px;
   /* border-radius: 5px; */
 }
 .menu {
@@ -74,6 +76,50 @@ hr {
   color: #222;
 }
 
+/* images */
+.page-thumb {
+    max-width:10%;
+}
+
+.ltbox-div {
+  margin: auto;
+}
+
+.ltbox-thumb {
+  max-width: 33%;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#ltbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background: rgba(0,0,0,0.7);
+  display: none;
+}
+
+#ltbox p {
+  text-align: right;
+  color: #fff;
+  margin-right: 20px;
+  font-size: .75em;
+  margin-bottom: 0;
+}
+
+#ltbox img {
+  max-width: 90vw;
+  max-height: 90vh;
+  box-shadow:0 0 25px #111;
+  -webkit-box-shadow:0 0 25px #111;
+  -moz-box-shadow:0 0 25px #111
+}
+
 /* code */
 pre {
   border: 1px solid #ddd;
@@ -85,7 +131,7 @@ code { background: #f9f9f9; }
 pre code { background: none; }
 
 /* misc elements */
-img, iframe, video { max-width: 100%; }
+/* img, iframe, video { max-width: 100%; } */
 main { hyphens: auto; }
 blockquote {
   background: #f9f9f9;
