@@ -81,16 +81,45 @@ hr {
     max-width:10%;
 }
 
-.ltbox-div {
+#ltbox-div {
   margin: auto;
+  max-width: 100%;
 }
 
 .ltbox-thumb {
   max-width: 33%;
+  max-height: 33%;
   padding: 5px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.ltbox-gallery-col3 {
+  float: left;
+  width: 30%;
+  padding: 5px;
+  /* border: 1px solid red; */
+}
+
+.ltbox-gallery-col3 img {
+  width:100%;
+  height: auto;
+  /* max-height:100%; */
+  padding:5px;
+  display: block;
+  /* border: 1px dashed blue; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* display: block; */
+}
+.ltbox-gallery-row {
+  display:flex;
+}
+.ltbox-gallery-row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 #ltbox {
