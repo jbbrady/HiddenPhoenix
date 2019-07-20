@@ -1,14 +1,11 @@
 body {
   /* font-family: Optima, Candara, Calibri, Arial, sans-serif; */
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 85%;
 }
 .title, .site-title { 
-  font-family: 'Cinzel Decorative', cursive;
-}
-.author {
-  font-family: 'Raleway';
+  font-family: 'Belgrano', serif;
 }

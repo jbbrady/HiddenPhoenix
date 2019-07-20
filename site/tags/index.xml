@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hidden Phoenix</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Hidden Phoenix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2019 08:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alternate Branching</title>
+      <link>/tags/alternate-branching/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/alternate-branching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Leaves</title>
+      <link>/tags/compound-leaves/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/compound-leaves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasive</title>
+      <link>/tags/invasive/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/invasive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lead Tree</title>
+      <link>/tags/lead-tree/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/lead-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leucaena Leucocephala</title>
+      <link>/tags/leucaena-leucocephala/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/leucaena-leucocephala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seed Pods</title>
+      <link>/tags/seed-pods/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/seed-pods/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
