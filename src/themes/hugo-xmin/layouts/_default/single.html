@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 <div class="article-meta">
-    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+    <div class="title"><span>{{ .Title | markdownify }}</span></div>
 
     <div>
         {{ with .Params.author }}
@@ -20,4 +20,8 @@
 {{ .Content }}
 </main>
 
+<hr/>
+<br/><br/>
+{{ partial "disqus.html" }}
+<br/><br/>
 {{ partial "footer.html" . }}
