@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/2019-07-21-ailanthus/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2019-07-19-leadtree/</loc>
     <lastmod>2019-07-19T08:00:00-07:00</lastmod>
   </url>
@@ -13,8 +18,14 @@
   </url>
   
   <url>
+    <loc>/tags/ailanthus-altissima/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/alternate/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,6 +41,12 @@
   </url>
   
   <url>
+    <loc>/tags/deciduous/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/fabaceae/</loc>
     <lastmod>2019-07-19T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -37,13 +54,13 @@
   
   <url>
     <loc>/tags/invasive/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/invasives/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <loc>/categories/invasive-plants/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,8 +77,14 @@
   </url>
   
   <url>
+    <loc>/tags/pinnately-compound/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,14 +95,26 @@
   </url>
   
   <url>
+    <loc>/tags/simaroubaceae/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tree-of-heaven/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/trees/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,7 +126,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
   </url>
   
 </urlset>

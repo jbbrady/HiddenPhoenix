@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Invasive on Hidden Phoenix</title>
-    <link>/tags/invasive/</link>
-    <description>Recent content in Invasive on Hidden Phoenix</description>
+    <title>Invasive Plants on Hidden Phoenix</title>
+    <link>/categories/invasive-plants/</link>
+    <description>Recent content in Invasive Plants on Hidden Phoenix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jul 2019 08:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/tags/invasive/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/invasive-plants/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

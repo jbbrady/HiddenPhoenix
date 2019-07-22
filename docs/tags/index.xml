@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Hidden Phoenix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jul 2019 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 08:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ailanthus Altissima</title>
+      <link>/tags/ailanthus-altissima/</link>
+      <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/ailanthus-altissima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alternate</title>
       <link>/tags/alternate/</link>
-      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
       
       <guid>/tags/alternate/</guid>
       <description></description>
@@ -30,6 +39,15 @@
     </item>
     
     <item>
+      <title>Deciduous</title>
+      <link>/tags/deciduous/</link>
+      <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/deciduous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fabaceae</title>
       <link>/tags/fabaceae/</link>
       <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
@@ -41,7 +59,7 @@
     <item>
       <title>Invasive</title>
       <link>/tags/invasive/</link>
-      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
       
       <guid>/tags/invasive/</guid>
       <description></description>
@@ -66,11 +84,38 @@
     </item>
     
     <item>
+      <title>Pinnately Compound</title>
+      <link>/tags/pinnately-compound/</link>
+      <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/pinnately-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seed Pods</title>
       <link>/tags/seed-pods/</link>
       <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
       
       <guid>/tags/seed-pods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simaroubaceae</title>
+      <link>/tags/simaroubaceae/</link>
+      <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/simaroubaceae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree of Heaven</title>
+      <link>/tags/tree-of-heaven/</link>
+      <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/tree-of-heaven/</guid>
       <description></description>
     </item>
     
