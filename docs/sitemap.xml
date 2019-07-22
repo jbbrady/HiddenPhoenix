@@ -36,12 +36,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/invasive/</loc>
     <lastmod>2019-07-19T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -93,6 +87,11 @@
     <loc>/tags/twice-pinnately-compound/</loc>
     <lastmod>2019-07-19T08:00:00-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
   </url>
   
 </urlset>
