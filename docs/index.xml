@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Under Construction! on Hidden Phoenix</title>
+    <title>Welcome! on Hidden Phoenix</title>
     <link>/</link>
-    <description>Recent content in Under Construction! on Hidden Phoenix</description>
+    <description>Recent content in Welcome! on Hidden Phoenix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jul 2019 08:00:00 -0700</lastBuildDate>
@@ -32,10 +32,12 @@
     <item>
       <title>About Us</title>
       <link>/about/</link>
-      <pubDate>Wed, 17 Jul 2019 08:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Under Construction! Check back soon.</description>
+      <description>Page is currently under construction, please check back soon!
+Who are you guys? Hidden Phoenix is (currently) Jennifer Brady and Zach Wilder.
+Why? Over the past few years of working together and sharing MANY stories, adventures and cool plant finds in a shared group chat on our phones we often thought about starting a website to archive all these tales - but never mentioned it to each other. Until one day, as we were lamenting the lack of a good, non-academic tree identification site for the Phoenix area specifically the idea came up in conversation&amp;hellip; One thing led to another and here we are!</description>
     </item>
     
   </channel>
