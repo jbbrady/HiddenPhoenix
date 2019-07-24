@@ -8,15 +8,6 @@
   </url>
   
   <url>
-    <loc>/posts/2019-07-19-leadtree/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/ailanthus-altissima/</loc>
     <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -29,25 +20,14 @@
   </url>
   
   <url>
-    <loc>/tags/bipinnate/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/deciduous/</loc>
     <lastmod>2019-07-21T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/fabaceae/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,18 +44,6 @@
   </url>
   
   <url>
-    <loc>/tags/lead-tree/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/leucaena-leucocephala/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/pinnately-compound/</loc>
     <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -84,12 +52,6 @@
   <url>
     <loc>/posts/</loc>
     <lastmod>2019-07-21T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/seed-pods/</loc>
-    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,14 +68,48 @@
   </url>
   
   <url>
+    <loc>/categories/trees/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/tree-of-heaven/</loc>
     <lastmod>2019-07-21T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/trees/</loc>
-    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <loc>/posts/2019-07-19-leadtree/</loc>
+    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bipinnate/</loc>
+    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fabaceae/</loc>
+    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/leucaena-leucocephala/</loc>
+    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/seed-pods/</loc>
+    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,8 +120,13 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-07-21T08:00:00-07:00</lastmod>
+    <loc>/tags/lead-tree/</loc>
+    <lastmod>2019-07-19T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
   </url>
   
 </urlset>

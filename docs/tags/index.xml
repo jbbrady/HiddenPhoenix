@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Ailanthus Altissima</title>
+      <title>Ailanthus altissima</title>
       <link>/tags/ailanthus-altissima/</link>
       <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
       
@@ -30,29 +30,11 @@
     </item>
     
     <item>
-      <title>Bipinnate</title>
-      <link>/tags/bipinnate/</link>
-      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
-      
-      <guid>/tags/bipinnate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deciduous</title>
       <link>/tags/deciduous/</link>
       <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
       
       <guid>/tags/deciduous/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fabaceae</title>
-      <link>/tags/fabaceae/</link>
-      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
-      
-      <guid>/tags/fabaceae/</guid>
       <description></description>
     </item>
     
@@ -66,38 +48,11 @@
     </item>
     
     <item>
-      <title>Lead Tree</title>
-      <link>/tags/lead-tree/</link>
-      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
-      
-      <guid>/tags/lead-tree/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leucaena Leucocephala</title>
-      <link>/tags/leucaena-leucocephala/</link>
-      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
-      
-      <guid>/tags/leucaena-leucocephala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pinnately Compound</title>
+      <title>Pinnately compound</title>
       <link>/tags/pinnately-compound/</link>
       <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
       
       <guid>/tags/pinnately-compound/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seed Pods</title>
-      <link>/tags/seed-pods/</link>
-      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
-      
-      <guid>/tags/seed-pods/</guid>
       <description></description>
     </item>
     
@@ -111,7 +66,7 @@
     </item>
     
     <item>
-      <title>Tree of Heaven</title>
+      <title>tree of heaven</title>
       <link>/tags/tree-of-heaven/</link>
       <pubDate>Sun, 21 Jul 2019 08:00:00 -0700</pubDate>
       
@@ -120,11 +75,56 @@
     </item>
     
     <item>
-      <title>Twice Pinnately Compound</title>
+      <title>Bipinnate</title>
+      <link>/tags/bipinnate/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/bipinnate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabaceae</title>
+      <link>/tags/fabaceae/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/fabaceae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leucaena leucocephala</title>
+      <link>/tags/leucaena-leucocephala/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/leucaena-leucocephala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seed pods</title>
+      <link>/tags/seed-pods/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/seed-pods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twice pinnately compound</title>
       <link>/tags/twice-pinnately-compound/</link>
       <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
       
       <guid>/tags/twice-pinnately-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lead tree</title>
+      <link>/tags/lead-tree/</link>
+      <pubDate>Fri, 19 Jul 2019 08:00:00 -0700</pubDate>
+      
+      <guid>/tags/lead-tree/</guid>
       <description></description>
     </item>
     
