@@ -37,12 +37,12 @@ to some.
 
 {{<ltbox src="2019-07-21-Ailanthus/GlamourShot3.jpg">}}
 
-The copious seeds are only viable for 1 year and they spread by wind, water,
-birds, and humans. The established tree also has long shallow lateral roots that
-sprout prolifically, often more so when the tree is disturbed. The sprouts grow
-very fast and have been recorded to grow 1" per day (Harlow, et al). Control is
-very difficult and usually a combination of cut stump treatment and foliar
-sprays are needed.
+The numerous seeds produced by ailanthus are only viable for 1 year and they
+spread by wind, water, birds, and humans. Established trees have long shallow
+lateral roots that sprout prolifically, often more so when the tree is
+disturbed. The sprouts grow very fast and have been recorded to grow 1" per day
+(Harlow, et al). Control is very difficult and usually a combination of cut
+stump treatment and foliar sprays are needed.
 
 # Identification 
 Tree of heaven has large alternate compound leaves (1' to 3'
@@ -63,8 +63,7 @@ Trees often mistaken for tree of heaven are
 (*Carya illinoensis*) or [smooth
 sumac](http://www.arizonensis.org/sycamore/nature/flora/rhus_glabra.html) (*Rhus
 glabra*) but both of these trees have teeth over the entire leaflet margin, tree
-of heaven only has teeth at the base of the leaflets, with the sides and tip
-being smooth.
+of heaven only has a few teeth at the base of the leaflets.
 
 Sources:
 
