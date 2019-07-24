@@ -8,6 +8,17 @@ title: About Us
 
 Hidden Phoenix is (currently) Jennifer Brady and Zach Wilder. 
 
+Jennifer is **BIO REDACTED** - just kidding, she hasn't written one yet!
+
+Zach is an ISA Certified Arborist, with (the majority of) his degree in Ecology
+from the University of Arizona, and is a veteran of the US Navy. During his time
+in the Navy, he had the opportunity to work in a natural resources office doing
+trail maintenance, planting trees, prescribed burns, and cleaning up roadkill.
+Between the Navy and the UofA he worked many (many) odd jobs, always hoping to
+end up working outside. At the UofA he worked as a research assistant catching
+rodents and bats with the mammology department, and assisted the Tree Ring
+Institute with modernizing the software used for tree ring analysis. 
+
 ## Why?
 
 Over the past few years of working together and sharing **MANY** stories,
@@ -29,11 +40,12 @@ home here as well.
 
 ## Who built this site? How?
 
-This site was built by Zach Wilder, using [Hugo](https://gohugo.io). The theme is a
-heavily modified version of [XMin](https://github.com/yihui/hugo-xmin) - the
-source for the site is on [GitHub](https://github.com/zwilder/hiddenphoenix).
-Zach does all his work on an old laptop running [Arch Linux](https://www.archlinux.org/), writing everything in [Vim](https://www.vim.org).
-If anything is broken on the site and needs fixing please don't hesitate to
-email [Zach](mailto:zwilder@hiddenphoenix.com)!
+This site was built by Zach Wilder, using [Hugo](https://gohugo.io). The theme
+is a heavily modified version of [XMin](https://github.com/yihui/hugo-xmin) -
+the source for the site is on
+[GitHub](https://github.com/zwilder/hiddenphoenix).  He does all his work on an
+old laptop running [Arch Linux](https://www.archlinux.org/), writing everything
+in [Vim](https://www.vim.org).  If anything is broken on the site and needs
+fixing please don't hesitate to [email Zach](mailto:zwilder@hiddenphoenix.com)!
 You can also read more about Zach's programming misadventures at
 [wsl-blog.com](https://wsl-blog.com).

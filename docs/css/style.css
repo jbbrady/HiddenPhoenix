@@ -141,6 +141,11 @@ hr {
   margin-right: auto;
 }
 
+.nsfw {
+  -webkit-filter: blur(15px);
+  filter: blur(15px);
+}
+
 @media (max-width: 800px) {
     .ltbox-thumb {
         flex: 30%;
